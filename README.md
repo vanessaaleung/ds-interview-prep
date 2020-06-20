@@ -2,8 +2,11 @@
 A website that helps practice Data Science interview questions
 
 ## Features
+<img src="main.png">
 1. Practice questions
+<img src="question.png">
 After submitting your answer, the website will display the correct answers and matching strings in your answer.
+<img src="submit.png">
 
 2. Contribute questions
 
