@@ -14,5 +14,5 @@ After submitting your answer, the website will display the correct answers and m
 
 ## Techstack
 1. [React](https://reactjs.org/): A JavaScript library for building user interfaces
-
-2. [Firebase Real-time Database and Hosting](https://firebase.google.com/docs/database): A cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client. 
+2. [Firebase Real-time Database](https://firebase.google.com/docs/database): A cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client
+3. [Firebase Hosting](https://firebase.google.com/docs/hosting):  A production-grade web content hosting for developers
