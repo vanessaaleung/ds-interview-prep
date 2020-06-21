@@ -16,6 +16,7 @@ After the users submitting their answers, the correct answers will be displayed 
 
 ### 2. Contribute questions
 Users can contribute their questions to the website. The response will be posted to the database and reviewed by the admin.
+
 <img src="contribute_page.png" width="500px">
 
 
@@ -31,3 +32,7 @@ Users can contribute their questions to the website. The response will be posted
 2. Add tags for questions
 3. Search questions by title & tags
 4. Report incorrect questions
+
+## Contributing
+
+Please let me know if you want to contribute to this project!
