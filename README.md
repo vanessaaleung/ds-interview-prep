@@ -25,3 +25,9 @@ Users can contribute their questions to the website. The response will be posted
 1. [React](https://reactjs.org/): A JavaScript library for building user interfaces
 2. [Firebase Real-time Database](https://firebase.google.com/docs/database): A cloud-hosted database. Data is stored as JSON and synchronized in realtime to every connected client
 3. [Firebase Hosting](https://firebase.google.com/docs/hosting):  A production-grade web content hosting for developers
+
+## In-development Features
+1. Contribution feature - post form to Firebase
+2. Add tags for questions
+3. Search questions by title & tags
+4. Report incorrect questions
