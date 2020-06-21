@@ -7,15 +7,17 @@ Check out the website [here](https://ds-interview-fdcb3.web.app/)
 <img src="main_page.png" width="700px">
 
 ### 1. Practice questions
-<img src="question_page.png" width="700px">
-
 A random question is fetched from the database and the user can type their answers in the text box.
+<img src="question_page.png" width="700px">
 
 After the users submitting their answers, the correct answers will be displayed and matching strings in the answer will be highlighted. The highlight feature is supported by the [react-highlight-words](https://github.com/bvaughn/react-highlight-words) package.
 
 <img src="submit_page.png" width="700px">
 
 ### 2. Contribute questions
+Users can contribute their questions to the website. The response will be posted to the database and reviewed by the admin.
+<img src="contribute_page.png" width="500px">
+
 
 ## Techstack
 1. [React](https://reactjs.org/): A JavaScript library for building user interfaces
