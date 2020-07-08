@@ -3,22 +3,20 @@ A website that helps practice Data Science interview questions
 
 Check out the website [here](https://ds-interview-fdcb3.web.app/)
 
-<img src="main_page.png" width="700px">
+<img src="main_page.png" width="600px">
 
 ## Features
 ### 1. Practice questions
 A random question is fetched from the database and the users can type their answers in the text box.
 
-<img src="question_page.png" width="700px">
+<img src="demo/question.gif" width="600px">
 
 After the users submitting their answers, the correct answers will be displayed and the matching strings in the answer will be highlighted. The highlight feature is supported by the [react-highlight-words](https://github.com/bvaughn/react-highlight-words) package.
-
-<img src="submit_page.png" width="700px">
 
 ### 2. Contribute questions
 Users can contribute their questions to the website. The response will be posted to the database and reviewed by the admin.
 
-<img src="contribute_page.png" width="500px">
+<img src="demo/contribute.gif" width="500px">
 
 
 ## Architecture
